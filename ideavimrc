@@ -1,0 +1,28 @@
+"""""""""""""""""""""""""""""""""""""""""""""""""""
+"*** INTELLJ SETTINGS (ideavim) 
+"""""""""""""""""""""""""""""""""""""""""""""""""""
+
+source ~/.vimrc
+
+" *** Plugins
+
+set vim-easymotion
+set vim-surround
+set vim-multiple-cursors
+set vim-commentary
+set ReplaceWithRegister
+set argtextobj
+set vim-exchange
+
+" *** Settings
+
+set commentary
+" set smart join for idea
+set ideajoin
+" enable native idea insertion in Vim
+set ideaput
+" sync idea bookmarks and vim marks
+set ideamarks
+" remove ideavim icon from status bar
+set ideastatusicon=disabled
+

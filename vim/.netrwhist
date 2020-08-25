@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/asterius/dotfiles/.git'
+let g:netrw_dirhist_2='/home/asterius/dotfiles'
+let g:netrw_dirhist_3='/home/asterius/workspace-tutor'
+let g:netrw_dirhist_4='/home/asterius/workspace-tutor/Code foundation'
+let g:netrw_dirhist_5='/home/asterius/workspace-tutor/Code foundation/algorithms'
+let g:netrw_dirhist_6='/home/asterius/workspace-tutor/Code foundation/algorithms/stepik'
+let g:netrw_dirhist_7='/home/asterius/workspace-tutor/Code foundation/algorithms/stepik/fibonacci'

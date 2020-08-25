@@ -1,0 +1,5 @@
+*.swp
+*~
+gitconfig
+vim/bundle/*
+!vim/bundle/Vundle.vim
